@@ -1,0 +1,66 @@
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; 
+}
+
+body 
+{
+  margin: 0;
+}
+
+a 
+{
+  background-color: transparent;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+
+.profile {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  background: linear-gradient(to bottom right, #ff5ef7 17.8%,#02f5ff 100.2%);
+  padding: 7px;
+}
+
+img .icon
+{
+  border: 0;
+}
+
+
+button {
+  overflow: visible;
+}
+
+
+
+button,
+select {
+  text-transform: none;
+}
+
+
+
+button,
+html input[type="button"], 
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button; 
+  cursor: pointer; 
+}
+
+
+
+
