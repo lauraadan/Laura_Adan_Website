@@ -1,0 +1,23 @@
+{
+  "name": "laura_adan_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraadan/Laura_Adan_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraadan/Laura_Adan_Website/issues"
+  },
+  "homepage": "https://github.com/lauraadan/Laura_Adan_Website#readme",
+  "description": ""
+}
