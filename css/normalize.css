@@ -29,7 +29,7 @@ h1 {
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.2)
     ),
-    url("images/profile2025.jpg") center/cover no-repeat;
+    url("../images/profile2025.jpg") center/cover no-repeat;
   border-radius: 20px;
 }
 
